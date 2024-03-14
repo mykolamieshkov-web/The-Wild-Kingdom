@@ -1,0 +1,16 @@
+// fonts import here!
+// устаревший формат шрифтов;
+
+@font-face {
+   font-family: 'Italiana-regular';
+   src: url(./fonts/Italiana-Regular.ttf) format("truetype"); /* safari android ios*/
+   font-style: normal;
+   font-weight: 400;
+
+}
+@font-face {
+   font-family: 'Montserrat-light';
+   src: url(./fonts/Montserrat-light.ttf) format("truetype"); /* safari android ios */
+   font-style: normal;
+   font-weight: 300;
+}
